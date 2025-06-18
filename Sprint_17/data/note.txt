@@ -1,0 +1,8 @@
+- Go to
+https://www.kaggle.com/datasets/chrisfilo/fruit-recognition/data
+- install the 9gb dataset
+- split the images in 2 folders (70% training - 30% testing)
+and make folders for each fruit inside the 2 folders
+/data/fruits/train_data/
+/data/fruits/test_data/
+- Rund the code
