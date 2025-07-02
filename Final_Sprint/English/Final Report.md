@@ -2,7 +2,7 @@
 
 Within the work plan applied to the project, the following steps were developed:
 
-- Identification and handling of null, duplicate, and missing data.
+- Recognition and handling of null, duplicate, and missing data.
 - Graphing and developing conclusions about the data
 - Handling of outliers and recorded outliers
 - Searching for correlations between all client data
